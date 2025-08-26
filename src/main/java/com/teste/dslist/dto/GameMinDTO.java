@@ -1,6 +1,6 @@
-package com.teste.dslist;
+package com.teste.dslist.dto;
 
-
+import com.teste.dslist.entities.Game;
 
 public class GameMinDTO {
     private Long id;
